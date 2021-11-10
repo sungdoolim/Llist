@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "782695435980",
+    "project_id": "lovelist-9bdeb",
+    "storage_bucket": "lovelist-9bdeb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782695435980:android:b05c1ada527e32c2c17c69",
+        "android_client_info": {
+          "package_name": "com.example.lovelist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782695435980-8kcmcqv6ph8fjglsci9pgtsfqcnae3rd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC7NTG38watdhQOkz5aNVIlQWswqyNWWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782695435980-8kcmcqv6ph8fjglsci9pgtsfqcnae3rd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
